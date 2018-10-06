@@ -13,6 +13,7 @@ PROXY_POOL_URL = 'http://localhost:5000/one'  # one proxy
 
 PROXIES_POOL_URL = 'http://127.0.0.1:5000/all'  # all proxies
 
+
 def get_proxy():
 
     try:
